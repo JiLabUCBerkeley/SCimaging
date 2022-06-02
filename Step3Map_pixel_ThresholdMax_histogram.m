@@ -1,5 +1,5 @@
 function Step3Map_pixel_ThresholdMax_histogram(filePath0,file0,options)
-% generate pixel maps for orientations
+% generate pixel maps for orientations; it need two inputs:the matlab file containing visual stimulation setting and the raw tif
 if nargin==0
 %         filePath0='\\dm11\genie\Yajie_GENIE_stuff\project\backupdatafromoldprojects\20180530 401905ntsrGN209\02\stack'; 
 %     file0='2018*.tif';
